@@ -1,9 +1,8 @@
 ### Hi there , I'm Aman Chauhan 👋
 
 ### Connect with me:
-[![Linkedin Badge](https://img.shields.io/badge/-mrigank-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-chauhan-65b726199/)](https://www.linkedin.com/in/aman-chauhan-65b726199/)  
-
-[![Gmail Badge](https://img.shields.io/badge/-mrigank.anand52@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhitheone456@gmail.com)](mailto:abhitheone456@gmail.com)  
+[![Linkedin Badge](https://img.shields.io/badge/-aman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-chauhan-65b726199/)](https://www.linkedin.com/in/aman-chauhan-65b726199/)
+[![Gmail Badge](https://img.shields.io/badge/-abhitheone456@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhitheone456@gmail.com)](mailto:abhitheone456@gmail.com)  
 
 
 <!--
