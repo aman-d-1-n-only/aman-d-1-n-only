@@ -37,11 +37,6 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-<details>
-  <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="aman-d-1-n-only Github Stats" src="https://github-readme-stats.aman-d-1-n-only.vercel.app/api?username=aman-d-1-n-only&show_icons=true&hide_border=true" />
-
-</details>
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=aman-d-1-n-only&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-d-1-n-only&hide=TeX&layout=compact)
