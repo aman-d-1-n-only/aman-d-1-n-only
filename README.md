@@ -1,9 +1,11 @@
 ### Hi there , I'm Aman Chauhan 👋
-<br />
+
 ### Connect with me:
-[![Linkedin Badge](https://img.shields.io/badge/-mrigank-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-chauhan-65b726199/)](https://www.linkedin.com/in/aman-chauhan-65b726199/)
-[![Gmail Badge](https://img.shields.io/badge/-mrigank.anand52@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhitheone456@gmail.com)](mailto:abhitheone456@gmail.com)
-<br />
+[![Linkedin Badge](https://img.shields.io/badge/-mrigank-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-chauhan-65b726199/)](https://www.linkedin.com/in/aman-chauhan-65b726199/)  
+
+[![Gmail Badge](https://img.shields.io/badge/-mrigank.anand52@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhitheone456@gmail.com)](mailto:abhitheone456@gmail.com)  
+
+
 <!--
 **aman-d-1-n-only/aman-d-1-n-only** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,7 +37,6 @@ Here are some ideas to get you started:
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-<br />
 
 <details>
   <summary>:zap: Github Stats</summary>
