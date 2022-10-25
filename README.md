@@ -35,6 +35,4 @@ I'm Aman Chauhan, a Computer Science undergraduate student at N.I.T Hamirpur. I 
 
 ### 🥷 More About Me :
 <img src="https://github-readme-stats.vercel.app/api?username=aman-d-1-n-only&&show_icons=true&&hide_border=false&&theme=midnight-purple&&count_private=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-d-1-n-only&&theme=midnight-purple&&hide_border=false&&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-d-1-n-only&&theme=midnight-purple&&hide_border=false&&show_icons=true"/>
 
